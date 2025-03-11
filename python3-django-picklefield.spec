@@ -8,7 +8,7 @@ Summary(pl.UTF-8):	Serializowalne przez pickle pole obiektowe dla Django
 Name:		python3-%{module}
 # keep as compatible with python3-django.spec version (3.0.x support Django 2.2/3.0, 3.1.x supports Django 3.2/4.0)
 Version:	3.0.1
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/d/django-picklefield/%{module}-%{version}.tar.gz
